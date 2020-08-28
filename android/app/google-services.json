@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "481480806517",
+    "firebase_url": "https://carmics-aae9b.firebaseio.com",
+    "project_id": "carmics-aae9b",
+    "storage_bucket": "carmics-aae9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481480806517:android:43c9034328217d15b7683c",
+        "android_client_info": {
+          "package_name": "com.ashinc.learningflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481480806517-tctmiqehavi6fv6kqejt6esd5221cbso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ashinc.learningflutter",
+            "certificate_hash": "af736fe228de081d3db88f3bacfd0aa05b50ead2"
+          }
+        },
+        {
+          "client_id": "481480806517-6jmbbk31pa1f4i5491e6ihv9vjt0pf5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaTKg2bdH6oWfNn85ljuNTbrSSY3reV7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481480806517-6jmbbk31pa1f4i5491e6ihv9vjt0pf5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
