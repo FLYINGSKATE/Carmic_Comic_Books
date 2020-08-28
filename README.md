@@ -1,6 +1,6 @@
-# learningflutter
+# Carmics Comic Book App
 
-A new Flutter application.
+A Flutter App to read comic books online the comics are in our Drive.
 
 ## Getting Started
 
