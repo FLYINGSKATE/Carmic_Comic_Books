@@ -1,4 +1,6 @@
 # Carmics Comic Book App
+Here's how the app looks like
+https://youtu.be/D_M10N7rbOc
 
 A Flutter App to read comic books online the comics are in our Drive.
 
